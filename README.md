@@ -1,2 +1,2 @@
 # debian11-yt
-Repositório de material aonde usaremos Debian 11
+Repositório das aulas do YT.
